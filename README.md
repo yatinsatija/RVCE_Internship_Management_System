@@ -42,3 +42,18 @@ The functional requirements of the project include:<br/>
    can accordingly decide and apply for the job.
 
 ## Result Snippets
+
+1. SIGNUP PAGE
+   ![alt text](https://github.com/yatinsatija/RVCE_Internship_Management_System/blob/main/resultSnippets/SignUp.png)
+
+2. ADMIN PAGE
+   ![alt text](https://github.com/yatinsatija/RVCE_Internship_Management_System/blob/main/resultSnippets/AdminPortal.png)
+
+3. ADMIN FUNCTIONALITY
+   ![alt text](https://github.com/yatinsatija/RVCE_Internship_Management_System/blob/main/resultSnippets/AdminFunctionality.png)
+
+4. RESPONSIVE EMAIL
+   ![alt text](https://github.com/yatinsatija/RVCE_Internship_Management_System/blob/main/resultSnippets/ResponsiveEmails.png)
+
+5. FIREBASE BACKEND
+   ![alt text](https://github.com/yatinsatija/RVCE_Internship_Management_System/blob/main/resultSnippets/backend.png)
